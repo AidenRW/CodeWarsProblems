@@ -1,0 +1,21 @@
+{
+  "name": "jan16th2020",
+  "version": "1.0.0",
+  "description": "\"third Code Wars Problem\"",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AidenRW/CodeWarsProblems"
+  },
+  "author": "Aiden Whelton",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}

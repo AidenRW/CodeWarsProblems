@@ -29,6 +29,7 @@ function rgb(r,g,b){
   rounded = ((r/16)%1);
   hex += hexConversion[(r/16) - rounded];
   hex += hexConversion[((r/16)%1)*16];
+  //g
   rounded = ((g/16)%1);
   hex += hexConversion[(g/16) - rounded];
   hex += hexConversion[((g/16)%1)*16];

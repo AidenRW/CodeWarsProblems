@@ -71,5 +71,5 @@ function tickets(peopleInLine){
   };
   return "YES";
 };
-
+//exports
 module.exports = {tickets};
